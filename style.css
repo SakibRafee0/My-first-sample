@@ -45,6 +45,15 @@ color: white;
 .servicecolor{
     color: red;
 }
+.service-list{
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 90px;
+    /* background-color: red; */
+    padding: 10px;
+    border-radius: 30%;
+    
+}
 .service{
     background-image: url(./asset/image/footer-bg.png); 
     color: white;
